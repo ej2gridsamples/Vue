@@ -1,0 +1,11 @@
+C:\Users\KuralarasanMuthusamy\Downloads\aspvue1908775075\aspvue\bin\Debug\netcoreapp2.0\asp-vue.deps.json
+C:\Users\KuralarasanMuthusamy\Downloads\aspvue1908775075\aspvue\bin\Debug\netcoreapp2.0\asp-vue.runtimeconfig.json
+C:\Users\KuralarasanMuthusamy\Downloads\aspvue1908775075\aspvue\bin\Debug\netcoreapp2.0\asp-vue.runtimeconfig.dev.json
+C:\Users\KuralarasanMuthusamy\Downloads\aspvue1908775075\aspvue\bin\Debug\netcoreapp2.0\asp-vue.dll
+C:\Users\KuralarasanMuthusamy\Downloads\aspvue1908775075\aspvue\bin\Debug\netcoreapp2.0\asp-vue.pdb
+C:\Users\KuralarasanMuthusamy\Downloads\aspvue1908775075\aspvue\obj\Debug\netcoreapp2.0\asp-vue.csprojAssemblyReference.cache
+C:\Users\KuralarasanMuthusamy\Downloads\aspvue1908775075\aspvue\obj\Debug\netcoreapp2.0\asp-vue.csproj.CoreCompileInputs.cache
+C:\Users\KuralarasanMuthusamy\Downloads\aspvue1908775075\aspvue\obj\Debug\netcoreapp2.0\asp-vue.AssemblyInfoInputs.cache
+C:\Users\KuralarasanMuthusamy\Downloads\aspvue1908775075\aspvue\obj\Debug\netcoreapp2.0\asp-vue.AssemblyInfo.cs
+C:\Users\KuralarasanMuthusamy\Downloads\aspvue1908775075\aspvue\obj\Debug\netcoreapp2.0\asp-vue.dll
+C:\Users\KuralarasanMuthusamy\Downloads\aspvue1908775075\aspvue\obj\Debug\netcoreapp2.0\asp-vue.pdb

@@ -1,0 +1,16 @@
+<template>
+    <div>
+        <ejs-grid :dataSource="data" height="auto" width="540" :toolbar="toolbar" :pageSettings="pageSettings" allowPaging="true" :editSettings="editSettings">
+            <e-columns>
+                <e-column field='orderID' headerText='Order ID gh' isPrimaryKey="true" textAlign='Right' width=90></e-column>
+                <e-column field='customerID' headerText='Customer ID' width=120></e-column>
+                <e-column field='freight' headerText='Freight' textAlign='Right' format='C2' width=90></e-column>
+            </e-columns>
+        </ejs-grid>
+    </div>
+</template>
+
+<script src="./fetchdata.ts"></script>
+<style>
+    @import "https://cdn.syncfusion.com/ej2/material.css";
+</style>
